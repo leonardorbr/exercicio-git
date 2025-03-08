@@ -1,0 +1,2 @@
+Arquivo teste criado diretamente pelo terminal, usando a função "touch"
+Aluno: Leonardo Ribeiro
